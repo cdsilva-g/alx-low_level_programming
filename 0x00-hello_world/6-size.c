@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: prints isze of various datatypes
- * return: 0 if exited properly, otherwise non-zero
+ * main - prints isze of various datatypes
+ * Return: 0 if exited properly, otherwise non-zero
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));

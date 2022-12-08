@@ -2,7 +2,7 @@
 
 /**
  * main: prints the phrase: "Programming is like buiding a multilingual puzzle\""
- * return: o if exited properly, non-zero otherwise
+ * return: 0 if exited properly, non-zero otherwise
  */
 
 int main(void)

@@ -20,10 +20,10 @@ void print_chessboard(char (*a)[8])
 
 		while (j < 8)
 		{
-			_putchar (a[n][j]);
+			_putchar(a[n][j]);
 			j++;
 		}
-		_putchar ('\n');
+		_putchar('\n');
 		n++;
 	}
 }

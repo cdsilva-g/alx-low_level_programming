@@ -3,7 +3,7 @@
  * @s: pointer to point string
  * @accept: pointer to string we are searching for in @s
  *
- * Retunr: pointer to the bytes in @s or NULl if no such byte is found
+ * Return: pointer to the bytes in @s or NULl if no such byte is found
  */
 
 char *_strpbrk(char *s, char *accept)

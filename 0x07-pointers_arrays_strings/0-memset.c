@@ -13,7 +13,7 @@ char *_memset(char *s, char b, unsigned int n)
 {
 	/**
 	 * declare an unsigned int
-	 * because we are storing a value that will always 
+	 * because we are storing a value that will always
 	 * be non-negative (zero or positive)
 	 */
 	unsigned int i;

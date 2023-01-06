@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - makes magic happen
+ * Return: returns 0 Always
+ */
 
 int main(void)
 {

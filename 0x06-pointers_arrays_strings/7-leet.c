@@ -9,7 +9,7 @@ char *leet(char *s)
 	int i, c = 0;
 	int sl[] = {97, 101, 111, 116, 108};
 	int ul[] = {65, 69, 79, 84, 76};
-	int n[] = {52, 51, 48, 55, 49}
+	int n[] = {52, 51, 48, 55, 49};
 
 	/*iterate values in array s*/
 	while (s[c] != '\0')

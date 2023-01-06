@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * mui - multiplicates two integers
+ * mul - multiplicates two integers
  * @a: int to be multiplied by b
  * @b: int to be multiplied by a
  * Return: the result of thr operation

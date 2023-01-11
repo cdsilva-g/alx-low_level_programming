@@ -3,8 +3,8 @@
 
 /**
  * argstostr - a function that concatenates all the arguments
- * @c: argument counter
- * @v: argument holder
+ * @ac: argument counter
+ * @av: argument holder
  * Return: a pointer toa new string or NULL if it fails
  */
 

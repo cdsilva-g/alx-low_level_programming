@@ -52,7 +52,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 
 void multiply(char *s1, char *s2)
 {
-	int i, l1 l2, total_l, f_digit, s_digit, res = 0, tmp;
+	int i, l1, l2, total_l, f_digit, s_digit, res = 0, tmp;
 	char *ptr;
 	void *temp;
 

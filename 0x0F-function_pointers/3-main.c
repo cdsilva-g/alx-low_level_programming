@@ -19,7 +19,7 @@
 
 int main(int argc, char *argv[])
 {
-	int num1, nu2;
+	int num1, num2;
 	char *operator;
 
 	/* Error if arguments are not 4 with the executable */
@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 	/* Error if operator is not NULL or a 2d array '\*' */
 	if (get_op_func(operator) == NULL || operator[1] != '\0')
 	{
-		print("Error\n");
+		printf("Error\n");
 		exit(99);
 	}
 

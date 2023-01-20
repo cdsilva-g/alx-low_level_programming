@@ -3,7 +3,8 @@
 
 /**
  * print_strings - a function that prints strings, followed by a new line.
- * @separatot: pointer to a constant separator
+ * @separator: pointer to a constant separator
+ * @n: start of input variables
  * Return: nothing
  */
 
@@ -23,7 +24,7 @@ void print_strings(const char *separator, const unsigned int n, ...)
 			printf("%s", str);
 		else
 			printf("(nil)");
-		
+
 		if (separator && index != n - 1)
 			printf("%s", separator);
 	}
